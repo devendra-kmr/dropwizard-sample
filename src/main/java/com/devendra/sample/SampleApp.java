@@ -24,7 +24,7 @@ public class SampleApp extends Service<SampleServiceConfiguration> {
     @Override
     public void initialize(Bootstrap<SampleServiceConfiguration> bootstrap) {
 
-        bootstrap.setName("hinaicloudconfig");
+        bootstrap.setName("sampleconfig");
 
     }
 
